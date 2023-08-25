@@ -1,0 +1,7 @@
+rootProject.name = 'hello-fresh-kafka'
+include 'coffee-lover'
+include 'board'
+include 'barista'
+include 'order-service'
+include 'coffee-shop'
+
